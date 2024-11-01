@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Basavaraja C! 👋
 
-<!--
-**cbraju/cbraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔧 DevOps Engineer with 20 years of experience in CI/CD, cloud, and automation
+- 🌐 Currently working on cloud-native projects and infrastructure automation
+- 📫 Connect with me on https://www.linkedin.com/in/basavaraja-c-22413573/
 
-Here are some ideas to get you started:
+### Technologies & Tools
+- **Languages**: Python, Bash, YAML , Groovy
+- **DevOps Tools**: Jenkins, Docker, Kubernetes, Terraform, Ansible
+- **Cloud Platforms**: AWS, Azure, GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **[Project 1: Kubernetes Cluster Setup](link-to-project)**: Scripts and configurations to deploy a production-ready Kubernetes cluster.
+- **[Project 2: Jenkins CI/CD Pipeline](link-to-project)**: Automated CI/CD pipeline for a microservices application using Jenkins.
+
+---
+
+Thank you for visiting my profile!
